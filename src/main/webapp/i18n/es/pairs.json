@@ -1,0 +1,23 @@
+{
+    "inDepth2App": {
+        "pairs" : {
+            "home": {
+                "title": "Pairs",
+                "createLabel": "Crear nuevo Pairs",
+                "createOrEditLabel": "Crear o editar Pairs",
+                "search": "Search for Pairs"
+            },
+            "created": "Un nuevo Pairs ha sido creado con el identificador {{ param }}",
+            "updated": "Un Pairs ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Pairs ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Pairs {{ id }}?"
+            },
+            "detail": {
+                "title": "Pairs"
+            },
+            "name": "Name",
+            "value": "Value"
+        }
+    }
+}

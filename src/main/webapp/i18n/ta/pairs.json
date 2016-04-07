@@ -1,0 +1,23 @@
+{
+    "inDepth2App": {
+        "pairs" : {
+            "home": {
+                "title": "Pairs",
+                "createLabel": "Pairs-ஐ உருவாக்கு",
+                "createOrEditLabel": "Pairs -ஐ மாற்று (அ) உருவாக்கு",
+                "search": "Search for Pairs"
+            },
+            "created": "Pairs புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "Pairs மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A Pairs நீக்கப்பட்டது, அடையாளம {{ param }}",
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் Pairs {{ id }}?"
+            },
+            "detail": {
+                "title": "Pairs"
+            },
+            "name": "Name",
+            "value": "Value"
+        }
+    }
+}
