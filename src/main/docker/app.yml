@@ -1,0 +1,15 @@
+version: '2'
+services:
+    indepth2-app:
+        image: indepth2
+        external_links:
+            - indepth2-mysql:mysql
+        environment:
+            - SPRING_PROFILES_ACTIVE=prod
+            - SPRING_DATASOURCE_URL=jdbc:mysql://mysql:3306/indepth2?useUnicode=true&characterEncoding=utf8&useSSL=false
+        ports:
+            - 8080:8080
+    indepth2-mysql:
+        extends:
+            file: mysql.yml
+            service: indepth2-mysql
