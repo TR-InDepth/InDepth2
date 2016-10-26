@@ -1,0 +1,29 @@
+{
+    "relationships": [
+        {
+            "relationshipName": "user",
+            "otherEntityName": "user",
+            "relationshipType": "one-to-one",
+            "ownerSide": false
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "lat",
+            "fieldType": "Double"
+        },
+        {
+            "fieldName": "longitude",
+            "fieldType": "Double"
+        },
+        {
+            "fieldName": "active",
+            "fieldType": "Integer"
+        }
+    ],
+    "changelogDate": "20160407192644",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "user_attirbutes",
+    "pagination": "no"
+}
