@@ -1,0 +1,25 @@
+{
+    "inDepth2App": {
+        "userAttirbutes" : {
+            "home": {
+                "title": "UserAttirbutes",
+                "createLabel": "UserAttirbutes-ஐ உருவாக்கு",
+                "createOrEditLabel": "UserAttirbutes -ஐ மாற்று (அ) உருவாக்கு",
+                "search": "Search for UserAttirbutes"
+            },
+            "created": "UserAttirbutes புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "UserAttirbutes மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A UserAttirbutes நீக்கப்பட்டது, அடையாளம {{ param }}",
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் UserAttirbutes {{ id }}?"
+            },
+            "detail": {
+                "title": "UserAttirbutes"
+            },
+            "lat": "Lat",
+            "longitude": "Longitude",
+            "active": "Active",
+            "user": "User"
+        }
+    }
+}

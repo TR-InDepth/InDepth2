@@ -1,0 +1,25 @@
+{
+    "inDepth2App": {
+        "userAttirbutes" : {
+            "home": {
+                "title": "UserAttirbutes",
+                "createLabel": "Crear nuevo UserAttirbutes",
+                "createOrEditLabel": "Crear o editar UserAttirbutes",
+                "search": "Search for UserAttirbutes"
+            },
+            "created": "Un nuevo UserAttirbutes ha sido creado con el identificador {{ param }}",
+            "updated": "Un UserAttirbutes ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un UserAttirbutes ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar UserAttirbutes {{ id }}?"
+            },
+            "detail": {
+                "title": "UserAttirbutes"
+            },
+            "lat": "Lat",
+            "longitude": "Longitude",
+            "active": "Active",
+            "user": "User"
+        }
+    }
+}

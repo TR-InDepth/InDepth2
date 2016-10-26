@@ -29,6 +29,15 @@
       "en",
       "es",
       "ta"
-    ]
+    ],
+    "aws": {
+      "applicationName": "in-depth-2",
+      "environmentName": "in-depth-2-env",
+      "bucketName": "in-depth-2-163181879419",
+      "instanceType": "t2.micro",
+      "awsRegion": "us-west-2",
+      "dbName": "InDepth2",
+      "dbInstanceClass": "db.t2.micro"
+    }
   }
 }
